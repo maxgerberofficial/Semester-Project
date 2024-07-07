@@ -1,0 +1,29 @@
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\bin\Debug\net6.0\BookstoreTest.exe
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\bin\Debug\net6.0\BookstoreTest.deps.json
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\bin\Debug\net6.0\BookstoreTest.runtimeconfig.json
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\bin\Debug\net6.0\BookstoreTest.dll
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\bin\Debug\net6.0\BookstoreTest.pdb
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.csproj.AssemblyReference.cache
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.AssemblyInfoInputs.cache
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.AssemblyInfo.cs
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.csproj.CoreCompileInputs.cache
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.dll
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\obj\Debug\net6.0\refint\BookstoreTest.dll
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.pdb
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.genruntimeconfig.cache
+C:\Users\darkn\source\repos\BookstoreTest\BookstoreTest\obj\Debug\net6.0\ref\BookstoreTest.dll
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\bin\Debug\net6.0\BookstoreTest.exe
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\bin\Debug\net6.0\BookstoreTest.deps.json
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\bin\Debug\net6.0\BookstoreTest.runtimeconfig.json
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\bin\Debug\net6.0\BookstoreTest.dll
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\bin\Debug\net6.0\BookstoreTest.pdb
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.AssemblyInfoInputs.cache
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.AssemblyInfo.cs
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.csproj.CoreCompileInputs.cache
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.dll
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\obj\Debug\net6.0\refint\BookstoreTest.dll
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.pdb
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\obj\Debug\net6.0\BookstoreTest.genruntimeconfig.cache
+C:\Users\darkn\Desktop\School\Semester Project\o;knafd;oanfb\BookstoreTest\BookstoreTest\obj\Debug\net6.0\ref\BookstoreTest.dll
